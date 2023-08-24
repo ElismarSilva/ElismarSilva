@@ -23,7 +23,7 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 
 ## Projetos Destacados 🔥
 
-- [Nome do Projeto 1](link_do_projeto_1) - Breve descrição do projeto.
+- [Estação Meteorologica IoT 1](https://github.com/ElismarSilva/Estacao-Meteorologica-IoT-com-Visualizacao-OLED-e-Esp32) - Breve descrição do projeto.
 - [Nome do Projeto 2](link_do_projeto_2) - Breve descrição do projeto.
 
 ## Educação 🎓
