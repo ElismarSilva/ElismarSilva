@@ -35,7 +35,7 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 - E-mail: (elismar.tec19@gmail.com). 📧
 - LinkedIn: [Elismar Silva](https://www.linkedin.com/in/elismar-silva-3024341a3/) 💼
 - GitHub: [Elismar Silva](https://github.com/ElismarSilva) 🐙
-- Instagram: [@elismar_ss](https://www.instagram.com/elismar_ss/) 🐦
+- Instagram: [@elismar_ss](https://www.instagram.com/elismar_ss/) 📷
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias sobre tecnologia e computação! 👍
 
