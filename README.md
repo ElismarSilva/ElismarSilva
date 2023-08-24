@@ -24,7 +24,7 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 ## Projetos Destacados 🔥
 
 - [Estação Meteorologica IoT ](https://github.com/ElismarSilva/Estacao-Meteorologica-IoT-com-Visualizacao-OLED-e-Esp32) - Este projeto consiste em uma estação meteorológica IoT que utiliza um ESP32 para coletar e exibir dados de temperatura e umidade em um display OLED. Além disso, ele sincroniza automaticamente o horário através do protocolo NTP via conexão WiFi..
-- [Rádio FM TEA5767](https://github.com/ElismarSilva/RADIO-FM-TEA5767) - Breve descrição do projeto.
+- [Rádio FM TEA5767](https://github.com/ElismarSilva/RADIO-FM-TEA5767) - Este é um projeto de rádio FM utilizando o módulo TEA5767 e um Arduino. O projeto permite sintonizar estações de rádio FM em diferentes frequências..
 
 ## Educação 🎓
 
