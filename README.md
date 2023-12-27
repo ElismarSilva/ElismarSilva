@@ -15,35 +15,35 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 
 ## Tecnologias que Conheço 🚀
 
-## Tecnologias que Conheço 🚀
-
 Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
-- **Desenvolvimento Web:**
-  - HTML5 ![HTML5 Icon](https://i.imgur.com/ABZb8OZ.png)
-  - CSS3 ![CSS3 Icon](https://i.imgur.com/FtC8iDA.png)
-  - JavaScript ![JavaScript Icon](https://i.imgur.com/MdB2BC8.png)
-  - TypeScript ![TypeScript Icon](https://i.imgur.com/5A5BccE.png)
-  - Angular ![Angular Icon](https://i.imgur.com/1oC8Bmo.png)
-
-- **Desenvolvimento Backend:**
-  - Python ![Python Icon](https://i.imgur.com/qb0fJjG.png)
-  - Django ![Django Icon](https://i.imgur.com/bH8H8qS.png)
+- **Linguagens de Programação:**
+  - Python 🐍
+  - Java ☕
+  - C++ 🖥️
+  - HTML 🕸️
+  - CSS 🎨
+  - JavaScript 🛠️
 
 - **Banco de Dados:**
-  - SQL Server ![SQL Server Icon](https://i.imgur.com/Pgt9gq3.png)
+  - SQL 📊
+
+- **Ferramentas e Tecnologias:**
+  - Git 📚
+  - Visual Studio Code 🧰
+  - Jupyter Notebook 📓
+
+- **Desenvolvimento Web:**
+  - HTML 🕸️
+  - CSS 🎨
+  - JavaScript 🛠️
+
+- **Ambientes de Desenvolvimento Integrado (IDEs):**
+  - PyCharm 🐘
+  - Eclipse 🌒
 
 Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato para discussões, colaborações ou apenas para trocar ideias sobre essas tecnologias e muito mais! 👍
 
-
-
-  <link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
-  integrity="sha512-xw5t/gSI+Lei3zU5UALMmNKT6M5sA94hIj+8f8vfr2CC2tw5dizwDF9u/ElaTEweRiR5E07zLP93T9b+5BtkBQ=="
-  crossorigin="anonymous"
-  referrerpolicy="no-referrer"
-/>
 
 
 Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato para discussões, colaborações ou apenas para trocar ideias sobre essas tecnologias e muito mais! 👍
