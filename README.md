@@ -15,32 +15,26 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 
 ## Tecnologias que Conheço 🚀
 
+## Tecnologias que Conheço 🚀
+
 Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
-- **Linguagens de Programação:**
-  - Python <i class="fab fa-python"></i>
-  - Java <i class="fab fa-java"></i>
-  - C++ <i class="fab fa-cuttlefish"></i>
-  - HTML <i class="fab fa-html5"></i>
-  - CSS <i class="fab fa-css3-alt"></i>
-  - JavaScript <i class="fab fa-js"></i>
+- **Desenvolvimento Web:**
+  - HTML5 ![HTML5 Icon](https://i.imgur.com/ABZb8OZ.png)
+  - CSS3 ![CSS3 Icon](https://i.imgur.com/FtC8iDA.png)
+  - JavaScript ![JavaScript Icon](https://i.imgur.com/MdB2BC8.png)
+  - TypeScript ![TypeScript Icon](https://i.imgur.com/5A5BccE.png)
+  - Angular ![Angular Icon](https://i.imgur.com/1oC8Bmo.png)
+
+- **Desenvolvimento Backend:**
+  - Python ![Python Icon](https://i.imgur.com/qb0fJjG.png)
+  - Django ![Django Icon](https://i.imgur.com/bH8H8qS.png)
 
 - **Banco de Dados:**
-  - SQL <i class="fas fa-database"></i>
+  - SQL Server ![SQL Server Icon](https://i.imgur.com/Pgt9gq3.png)
 
-- **Ferramentas e Tecnologias:**
-  - Git <i class="fab fa-git"></i>
-  - Visual Studio Code <i class="fas fa-code"></i>
-  - Jupyter Notebook <i class="fab fa-jupyter"></i>
+Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato para discussões, colaborações ou apenas para trocar ideias sobre essas tecnologias e muito mais! 👍
 
-- **Desenvolvimento Web:**
-  - HTML <i class="fab fa-html5"></i>
-  - CSS <i class="fab fa-css3-alt"></i>
-  - JavaScript <i class="fab fa-js"></i>
-
-- **Ambientes de Desenvolvimento Integrado (IDEs):**
-  - PyCharm <i class="fab fa-python"></i>
-  - Eclipse <i class="fas fa-moon"></i>
 
 
   <link
