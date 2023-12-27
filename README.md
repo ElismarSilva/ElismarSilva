@@ -13,13 +13,46 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 - Segurança Cibernética 🔒
 - Ciência de Dados 📊
 
-## Habilidades 🚀
+## Tecnologias que Conheço 🚀
 
-- Linguagens de Programação: Python 🐍, Java ☕, C++ 🖥️
-- Ferramentas e Tecnologias: Git 📚, Visual Studio Code 🧰, Jupyter Notebook 📓
-- Desenvolvimento Web: HTML 🕸️, CSS 🎨, JavaScript 🛠️
-- Banco de Dados: SQL 📊
-- Ambientes de Desenvolvimento Integrado (IDEs): PyCharm 🐘, Eclipse 🌒
+Aqui estão algumas das tecnologias com as quais estou familiarizado:
+
+- **Linguagens de Programação:**
+  - Python <i class="fab fa-python"></i>
+  - Java <i class="fab fa-java"></i>
+  - C++ <i class="fab fa-cuttlefish"></i>
+  - HTML <i class="fab fa-html5"></i>
+  - CSS <i class="fab fa-css3-alt"></i>
+  - JavaScript <i class="fab fa-js"></i>
+
+- **Banco de Dados:**
+  - SQL <i class="fas fa-database"></i>
+
+- **Ferramentas e Tecnologias:**
+  - Git <i class="fab fa-git"></i>
+  - Visual Studio Code <i class="fas fa-code"></i>
+  - Jupyter Notebook <i class="fab fa-jupyter"></i>
+
+- **Desenvolvimento Web:**
+  - HTML <i class="fab fa-html5"></i>
+  - CSS <i class="fab fa-css3-alt"></i>
+  - JavaScript <i class="fab fa-js"></i>
+
+- **Ambientes de Desenvolvimento Integrado (IDEs):**
+  - PyCharm <i class="fab fa-python"></i>
+  - Eclipse <i class="fas fa-moon"></i>
+
+
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+  integrity="sha512-xw5t/gSI+Lei3zU5UALMmNKT6M5sA94hIj+8f8vfr2CC2tw5dizwDF9u/ElaTEweRiR5E07zLP93T9b+5BtkBQ=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
+
+
+Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato para discussões, colaborações ou apenas para trocar ideias sobre essas tecnologias e muito mais! 👍
 
 ## Projetos Destacados 🔥
 
