@@ -9,6 +9,7 @@ Olá! Meu nome é Elismar Silva e sou estudante de Ciência da Computação. Ten
 
 - Desenvolvimento de Software 👨‍💻
 - Inteligência Artificial e Aprendizado de Máquina 🤖
+- Robótica e IoT 🌐
 - Programação Web 🌐
 - Segurança Cibernética 🔒
 - Ciência de Dados 📊
